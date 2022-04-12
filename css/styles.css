@@ -1,0 +1,38 @@
+/***********************Tag selector*******************/
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    padding-top: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    padding: 0 10px;
+}
+
+
+img {
+    max-width: 100%;
+    max-height: 20%;
+    border-radius: 1rem;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.9375rem;
+    font-weight: 400;
+    padding: 0 10px;
+}
+
+.container {
+    width: 22%;
+    margin: auto;
+    padding: 10px;
+    background-color: hsl(0, 0%, 100%);
+    border-style: none;
+    border-radius: 1rem;
+}
